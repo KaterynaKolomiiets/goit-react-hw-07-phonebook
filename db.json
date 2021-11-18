@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "name": "girolamo savonarola",
+      "number": "3545455",
+      "id": "005f6012-b889-4655-84e5-b491689260cb"
+    },
+    {
+      "name": "mahatma gandhi",
+      "number": "3445455",
+      "id": "dd2a2938-a467-4282-bd24-08db2ad5b1fa"
+    },
+    {
+      "name": "nelson mandela",
+      "number": "454545",
+      "id": "10f1dc23-210d-4aae-b1f6-fcb7e1623cd8"
+    },
+    {
+      "name": "napoleon",
+      "number": "454565656",
+      "id": "fedcea51-f121-489a-9152-5d6e8f2a8f92"
+    },
+    {
+      "name": "siddhartha gautama",
+      "number": "34354545",
+      "id": "0ddfda78-f8e4-48f7-afbb-3284a7dcac4c"
+    },
+    {
+      "name": "benazir bhutto",
+      "number": "2334455",
+      "id": "85525479-455d-4448-97b2-8de1c38ccde0"
+    },
+    {
+      "name": "arrrrra",
+      "number": "4345454554",
+      "id": "c4f82121-30dd-4c18-99dc-a14c134d476e"
+    },
+    {
+      "name": "petrarka",
+      "number": "334344",
+      "id": "8f34f21b-a6d6-456c-a560-0dee9a8f1147"
+    }
+  ]
+}
